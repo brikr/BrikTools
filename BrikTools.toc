@@ -23,4 +23,6 @@ Libs\AceSerializer-3.0\AceSerializer-3.0.xml
 Util.lua
 Test.lua
 Dumpy.lua
+CreateWeakAura.lua
+MainFrame.lua
 BrikTools.lua
